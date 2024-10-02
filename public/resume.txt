@@ -1,0 +1,53 @@
+Jason Pua		
+"Kuala Lumpur, Malaysia."		
+HP: +6 018 372 8819  Email: puaxianhao@gmail.com LinkedIn: hBps://www.linkedin.com/in/jason-pua-080022111/ Website: hBps://jasonpua.vercel.app/		
+CAREER SUMMARY		
+"Dynamic and results-driven professional with extensive experience in leading digital transformaPon iniPaPves in AI inference and data analyPcs across diverse industries. Proven track record of fostering collaboraPve environments, mentoring teams, and delivering innovaPve soluPons that drive client success. Adept at leveraging data analyPcs and technology strategy to solve complex business challenges and enhance operaPonal eﬃciency."		
+PROFESSIONAL EXPERIENCE		
+Company	PosiFon	Period
+"Intel Microelectronics (M) Sdn Bhd
+ABB Malaysia Sdn. Bhd."	"Sales/Field ApplicaPons Engineer
+Sales Engineer"	"2021 - Current
+2016 - 2021"
+Account Management & Business Development		
+Strategic Account Manager:		
+"•      Strategic Partnership Development: Spearheaded account management for a diverse porUolio of global clients, including mulPnaPonal corporaPons (MNCs), original equipment manufacturers (OEMs), and original design manufacturers (ODMs), fostering strategic partnerships that drove business growth and market relevancy."		
+"•       MulFnaFonal CorporaFons (MNCs): Siemens, Honeywell, GE"		
+"•      Original Equipment Manufacturers (OEMs): Dell, HPE, Lenovo"		
+•      Business Development and ExecuFon:		
+"•      Developed and executed tailored account strategies and programs to meet the unique needs of each OEM account, resulPng in a 6% Year-on-Year increase in sales across commercial, enterprise, and public sector segments in the Asia Region."		
+"•      CXO/VP Level InteracPons: Engaged with execuPve and C-suite level stakeholders yearly for roadmap updates on our latest Intel CPUs and GPUs, working closely with their R&D teams for seeding units, POCs, and serving as a trusted advisor. This interacPon facilitated access to stakeholders in other divisions beyond product development to sell-through with Intel CPU through CSP instances."		
+"•      Cloud Technology IntegraPon: Collaborated with clients to integrate AWS Intel instances, such as M7i for building model inference pipeline, and tesPng, demonstraPng experPse in cloud technologies."		
+"•       Complex NegoFaFons and Strategic Alignment: Managed complex negoPaPons and contractual agreements, leveraging deep industry knowledge to secure favorable terms and drive business growth while ensuring protecPon of IPs."		
+Project Management		
+Remote Store Management Project:		
+"•      Project Overview: Spearheaded a design project with OEMs for the largest convenience store chain in SEA ANZ, focusing on out-of-bound management for POS and store surveillance systems uPlizing Intel vPro and Intel AMT technologies."		
+"•       Technical InnovaFon: VirtualizaPon and MulP-ApplicaPon HosPng using Hyper-V to enable the customer to host mulPple applicaPons on a single compute node. Conﬁgured one VM for remote management, leveraging Intel vPro and Intel AMT. The other VM runs a people tracking AI visual inference pipeline with YOLOv4, showcasing the versaPlity in of CPU to potenPally host mulPple applicaPons."		
+•      Key Achievements:		
+"•      First Phase ImplementaFon: Successfully managed the project from POC to PO, achieving a total design win of $800,000 USD in Malaysia during the ﬁrst phase."		
+•      Scalable across industries/regions: Demonstrated scalability potenPal across other countries within the SEA ANZ region to transform tradiPonal IT infrastructure to fully remote management.		
+"•      Future revenue stream: Laid the groundwork for replicaPng this success in other convenience store chains, driving new growth opportuniPes for OEMs."		
+•      Project Impact: This project is highly imperaPve not only as a revenue generator however it enabled our channel partners to monePse their ﬁeld enablement services not just on the hardware but also somware front on out-of-bound management soluPons for customer.		
+AI Anomaly DetecFon for EV Gigafactory:		
+"•      Project Overview: Developed an edge inferencing plaUorm for anomaly detecPon of baBery terminals for a leading electric vehicle manufacturer. The system uPlized eight image sensors connected to a frame grabber, with data processed on an edge server deployed directly on the factory ﬂoor."		
+"•      Technical InnovaFon: Implemented inference pipelines uPlizing Intel® AMX accelerators on 4th Gen Xeon CPUs, achieving a service level agreement (SLA) of 1000 frames per second (FPS). Leveraged PyTorch and OpenVINO to run pre-trained models (PADIM & EﬃcientAD) with ﬁne-tuning based on customer-provided datasets, all executed on CPU without increasing the bill of materials (BOM) through GPU integraPon."		
+•      Key Achievements:		
+"•      First Phase ImplementaFon: Successfully deployed two nodes in the ﬁrst phase, with a total project value of $500,000 USD."		
+"•      Key selling feature and reusability: Enabled the customer to maintain code portability as inference workloads were executed on CPU, eliminaPng the need for proprietary vendor hardware libraries like CUDA. This development allowed for future upgrades and repurposing of exisPng CPU edge servers for other compuPng tasks such as storage and high-resoluPon data compression."		
+"• Energy sustainability & performance latency: The CPU-based inference soluPon maintained a manageable power envelope, allowing deployment on-site without the need to upgrade circuit breakers. Post processed images was also oﬄoaded to"		
+cloud instance for backup and compression. This approach signiﬁcantly improved		
+latency in anomaly detecPon processes.		
+"•      Project Impact: Demonstrated technical excellence while providing substanPal economic beneﬁts through energy and cost savings. The project showcased eﬀecPve management of both commercial and technical aspects, leveraging AI inference libraries like OpenVINO and PyTorch to opPmize inference throughput."		
+Channel Partner Management:		
+"•      Incubated and managed relaPonships with new distributors to expand sales networks, focusing on leveraging their established market presence to drive channel sales growth across mulPple sectors, including public and private across SEA."		
+•      Secured signiﬁcant deals and tenders from public sector enPPes and large mulPnaPonal corporaPons by implemenPng targeted engagement strategies that highlighted the value of our soluPons in addressing their speciﬁc needs.		
+•      Solely tasked to grow the channel management business for Mechanical Power Transmission Products (MPT) and NEMA Motors within Malaysia and onboarded 3 new channel partners to sustain and grow the channel business in Malaysia. Grown the accounts from annual budget approximately 250% within a span of 2 years.		
+•      CulPvated internal talents for delegaPon of key accounts and established channel sales team for handover to “farming” team.		
+Technical Competencies		
+"●   Programming Languages:      Python, C++, and Unix / Linux Shell ScripPng."		
+"●   AI with Neural Networks:      PyTorch, Keras, Tensorﬂow, OpenVINO"		
+●   Computer Vision Libraries:   OpenCV		
+"●   Web Dev                                  Node.js, React, Javascript"		
+"●   Cloud Instances                      AWS, GCP, Azure, Kubernetes, Proxmox Hypervisors"		
+"EDUCATION,"		
+"●   B. Eng (Hons) in Electrical and Computer Systems Engineering, Monash University 2015"		
