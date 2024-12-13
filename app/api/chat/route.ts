@@ -11,7 +11,7 @@ import { streamText } from 'ai'; // - latest
 export const maxDuration = 30;
 
 const perplexity = createOpenAI({
-    name: 'perplexity',
+    // name: 'perplexity',
     apiKey: process.env.PERPLEXITY_API_KEY ?? '',
     baseURL: 'https://api.perplexity.ai/',
   });
