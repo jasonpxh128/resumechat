@@ -1,6 +1,6 @@
 import { createOpenAI } from '@ai-sdk/openai';
 // import { streamText, convertToCoreMessages } from 'ai'; - old
-import { smoothStream, streamText } from 'ai'; // - latest
+import { streamText } from 'ai'; // - latest
 
 
 
